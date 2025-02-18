@@ -1,0 +1,28 @@
+{
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "workbench.editor.chatSession": true,
+        "repl": true,
+        "workbench.editors.gettingStartedInput": true,
+        "workbench.input.interactive": true
+    },
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.decorations.badges": false,
+    "workbench.editor.customLabels.patterns": {
+        "file": ""
+    },
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.preferHistoryBasedLanguageDetection": true,
+    "workbench.editor.revealIfOpen": true,
+    "workbench.editor.sharedViewState": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "",
+        "",
+        ""
+    ],
+    "workbench.editor.untitled.labelFormat": "name",
+    "workbench.settings.editor": "json"
+}
