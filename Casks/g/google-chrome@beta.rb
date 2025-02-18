@@ -52,6 +52,8 @@ cask "google-chrome@beta" do
       rmdir:     [
         "/Library/Google",
         "~/Library/Application Support/Google",
+      
+      
         "~/Library/Caches/Google",
         "~/Library/Google",
       ]
