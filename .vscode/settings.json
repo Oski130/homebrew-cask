@@ -23,6 +23,10 @@
         "",
         ""
     ],
-    "workbench.editor.untitled.labelFormat": "name",
-    "workbench.settings.editor": "json"
+    "workbench.editor.untitled.labelFormat": "content",
+    "workbench.settings.editor": "ui",
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.limit.enabled": true
 }
